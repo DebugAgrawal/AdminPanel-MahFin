@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/adminpanel-mahfin/static/css/main.a67e6a05.css",
+    "main.js": "/adminpanel-mahfin/static/js/main.261848f2.js",
+    "index.html": "/adminpanel-mahfin/index.html",
+    "main.a67e6a05.css.map": "/adminpanel-mahfin/static/css/main.a67e6a05.css.map",
+    "main.261848f2.js.map": "/adminpanel-mahfin/static/js/main.261848f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a67e6a05.css",
+    "static/js/main.261848f2.js"
+  ]
+}
