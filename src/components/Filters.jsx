@@ -14,7 +14,7 @@ const Filters = () => {
     "Byculla",
   ];
 
-  const { transactionData, setTransactionData, filterData, setFilterData } =
+  const { transactionData, filterData, setFilterData } =
   useContext(DataContext);
   const currentDate = "2023-12-30";
   const [searchID, setSearchID] = useState("");
@@ -36,7 +36,7 @@ const Filters = () => {
         row.date <= maxDate))
     );
     setFilterData({ data: data });
-  }, [minDate, maxDate, searchID, type, status, selectBranch]);
+  }, [minDate, maxDate, searchID,transactionData,setFilterData, type, status, selectBranch]);
   return (
     <div className="flex flex-col">
       <div className="flex flex-row justify-between m-5 text-center">

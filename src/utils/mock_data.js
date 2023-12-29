@@ -45,7 +45,7 @@ export const data = [
   },
   {
     id: 346644,
-    date: "2023-09  -23",
+    date: "2023-09-23",
     branch: "Vile Parle",
     type: "Short",
     amount: "10,00,000",
