@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/adminpanel-mahfin/static/css/main.a67e6a05.css",
-    "main.js": "/adminpanel-mahfin/static/js/main.261848f2.js",
-    "index.html": "/adminpanel-mahfin/index.html",
-    "main.a67e6a05.css.map": "/adminpanel-mahfin/static/css/main.a67e6a05.css.map",
-    "main.261848f2.js.map": "/adminpanel-mahfin/static/js/main.261848f2.js.map"
+    "main.css": "/AdminPanel-MahFin/static/css/main.a67e6a05.css",
+    "main.js": "/AdminPanel-MahFin/static/js/main.261848f2.js",
+    "index.html": "/AdminPanel-MahFin/index.html",
+    "main.a67e6a05.css.map": "/AdminPanel-MahFin/static/css/main.a67e6a05.css.map",
+    "main.261848f2.js.map": "/AdminPanel-MahFin/static/js/main.261848f2.js.map"
   },
   "entrypoints": [
     "static/css/main.a67e6a05.css",
