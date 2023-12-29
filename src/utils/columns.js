@@ -1,0 +1,38 @@
+export const  COLUMNS = [
+    {
+        Header:'ID',
+        accessor:'id'
+    },
+    {
+        Header:'DATE',
+        accessor:'date'
+    },
+    {
+        Header:'BRANCH',
+        accessor:'branch'
+    },
+    {
+        Header:'TYPE',
+        accessor:'type'
+    },
+    {
+        Header:'AMOUNT',
+        accessor:'amount'
+    },
+    {
+        Header:'BANK',
+        accessor:'bank'
+    },
+    {
+        Header:'REQUESTED BY',
+        accessor:'requested_by'
+    },
+    {
+        Header:'STATUS',
+        accessor:'status'
+    },
+    {
+        Header:"",
+        accessor:""
+    }
+]
