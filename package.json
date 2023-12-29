@@ -1,7 +1,7 @@
 {
   "name": "admin-panel-mahfin",
   "version": "0.1.0",
-  "homepage": "https://debugagrawal.github.io/adminpanel-mahfin",
+  "homepage": "https://debugagrawal.github.io/AdminPanel-MahFin",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
