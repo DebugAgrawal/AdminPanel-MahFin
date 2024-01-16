@@ -17,7 +17,7 @@ const App = () => {
       value={{
         transactionData: transactionData, // configuring ContextAPI with global states (mock_data)
         setTransactionData: setTransactionData, // providing setStates to mdoify global data by child components
-        filterData: filterData,
+        filterData: filterData, // if names are same for parent state and context state directly pass without object notation of (:)
         setFilterData,
       }}
     >

@@ -32,8 +32,7 @@ const Filters = () => {
         row.status.includes(status) &&
         row.type.includes(type) &&
         row.id.toString().includes(searchID) &&
-        ((minDate === "" && maxDate === "") ||
-          (row.date >= minDate && row.date <= maxDate))
+        ((row.date >= minDate && row.date <= maxDate))
     );
     setFilterData({ data: data }); //updating the data for anychanges in filter
   }, [
